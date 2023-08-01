@@ -1,5 +1,5 @@
-﻿story_title,story_img,story_link,type
-Extreme heat threatens communities nationwide,img/cracked-ground.jpg,13564654,national
-"Climate change: the potential, the personal and the political",img/opinion-still.jpg,13565368,national
-Find out your neighborhood risks,img/leaves.png,13564648,national
-"(Test story) Extreme heat, humidity continues in New York City",https://static.abcotvs.com/wabc/images/cms/automation/vod/072823-wabc-heat-img.jpg,https://abc7ny.com/nyc-heat-wave-cooling-centers-hot-weather-tips/13561972/,local
+﻿story_title,story_img,story_link,type,national-slug
+Extreme heat threatens communities nationwide,img/cracked-ground.jpg,13564654,national,extreme-heat
+"Climate change: the potential, the personal and the political",img/opinion-still.jpg,13565368,national,climate-perspectives
+Find out your neighborhood risks,img/leaves.png,13564648,national,climate-risks
+"(Test story) Extreme heat, humidity continues in New York City",https://static.abcotvs.com/wabc/images/cms/automation/vod/072823-wabc-heat-img.jpg,https://abc7ny.com/nyc-heat-wave-cooling-centers-hot-weather-tips/13561972/,local,NA
